@@ -1,0 +1,15 @@
+header {
+    color: black;
+    margin: 10px;
+    
+    font-size: 1.8em;
+    font-weight: thin;
+  }
+p{
+    margin-left: 10px;
+}
+shade{
+    margin-left: 30px;
+    background-color: #f7f7f7;
+
+}
